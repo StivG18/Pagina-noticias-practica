@@ -1,3 +1,3 @@
 ﻿# Pagina-noticias
  
-- [Link-pagina](https://technewsproyectodepractica.000webhostapp.com/)
+- [Link-pagina](https://pagina-noticias-practica.vercel.app/)
